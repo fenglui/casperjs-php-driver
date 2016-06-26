@@ -9,22 +9,19 @@ https://github.com/DiceHoldingsInc/casperjs-php-driver
 - AppendToScript method
 
 
-# CasperJS PHP Driver
-![Build status](https://travis-ci.org/DiceHoldingsInc/casperjs-php-driver.svg?branch=master)
-
-## Prerequisites
-This driver will assume that the command `casperjs` is available in your `$PATH`. If not, you can install it with:
-```
-npm install -g casperjs
-```
-
 ## Installation
 You can use this package in your project via composer. Add these lines to your `composer.json`:
 ```
 "require": {
-  "workdigital/casperjs-php-driver": "1.*"
+  "pruiti/casperjs-php-driver": "1.*"
 },
 …
+```
+
+or
+
+```
+composer require pruiti/casperjs-php-driver
 ```
 
 Latest stable release is 1.0
