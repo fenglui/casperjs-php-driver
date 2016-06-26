@@ -1,6 +1,12 @@
 Fork of the Original CasperJS PHP Driver
-[https://github.com/DiceHoldingsInc/casperjs-php-driver]
+https://github.com/DiceHoldingsInc/casperjs-php-driver
 
+### Changelog
+
+- Accept Language fix
+- Custom CasperJS Path fix
+- SetCookies, LoadCookies, SaveCookies methods
+- AppendToScript method
 
 
 # CasperJS PHP Driver
