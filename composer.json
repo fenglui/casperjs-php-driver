@@ -1,5 +1,5 @@
 {
-    "name": "maghetto85/casperjs-php-driver",
+    "name": "pruiti/casperjs-php-driver",
     "description": "An improved general purpose PHP driver for CasperJS",
     "require-dev": {
         "phpunit/phpunit": "~4.4"
